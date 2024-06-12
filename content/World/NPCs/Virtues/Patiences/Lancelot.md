@@ -1,3 +1,3 @@
-#NPC #VirtueWeilder
+#NPC #VirtueWielder
 
 Wielder of [[Patience]]
