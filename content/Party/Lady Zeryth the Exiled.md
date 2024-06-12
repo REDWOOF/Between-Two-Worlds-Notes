@@ -1,6 +1,6 @@
 #Party #Zeryth #MissingInfo 
 
-##### A drow warlock. Previously in a pact with a #MissingInfo , her new patron and curse sin is [[Greed]]. She is part of [[The Misfits]].
+##### A drow warlock. Previously in a pact with a fiend, her new patron and curse sin is [[Greed]]. She is part of [[The Misfits]].
 ***
 
 Her brother is [[The Black Spider]].
