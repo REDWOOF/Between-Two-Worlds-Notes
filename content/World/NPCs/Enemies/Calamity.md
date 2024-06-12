@@ -1,4 +1,4 @@
-#NPC #Rêvgo #Ennemy 
+#NPC #Rêvgo #Enemy 
 
 ##### The curse affecting [[Rêvgo Druci (Solas Tabris)]].
 ---

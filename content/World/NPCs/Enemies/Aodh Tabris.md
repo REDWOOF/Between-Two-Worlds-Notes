@@ -1,4 +1,4 @@
-#Aodh #Rêvgo #Ennemy #NPC
+#Aodh #Rêvgo #Enemy #NPC
 ##### [[Rêvgo Druci (Solas Tabris)]]'s revived brother.
 ***
 
