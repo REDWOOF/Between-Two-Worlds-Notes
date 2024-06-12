@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Welcome to R3DW00F's notes for D&D!
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+I've installed Quartz which allows me to publish all my notes on the website you're on. (It was pain to install.)
+My goal now is to make the graph view better.
