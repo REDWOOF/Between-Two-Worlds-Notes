@@ -1,5 +1,9 @@
-#NPC #Angel
-
+---
+tags:
+  - NPC
+  - Angel
+  - Enemy
+---
 ##### Fallen angel of death.
 ---
 Slain by Gluttony, it had killed 13 sin users in total.

@@ -1,3 +1,5 @@
-#NPC 
-
+---
+tags:
+  - NPC
+---
 Linked to Priscilla.

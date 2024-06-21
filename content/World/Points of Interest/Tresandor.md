@@ -1,3 +1,5 @@
-#Places 
-
-###### Our HQ situated in [[Phandalin]].
+---
+tags:
+  - Places
+---
+##### Our HQ situated in [[Phandalin]].

@@ -1,13 +1,8 @@
----
-tags:
-  - God
----
+#God
+
 Origin of [[Despair]] and [[Hope]].
 
-### Information:
-
 We found an image in Gnomengard that seems to reference the sins.
-
 ![[Book Cover.png]]
 
 We can see 2 sides of 7 characters, the Sins and Virtues.

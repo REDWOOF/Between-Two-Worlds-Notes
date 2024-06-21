@@ -1,6 +1,9 @@
-#Party #Rêvgo 
+---
+tags:
+  - Party
+  - Rêvgo
+---
 ##### A red dragonborn druid cursed with [[Calamity]] and [[Wrath]]. He is part of [[The Misfits]].
-
 ***
 
 ### Backstory:

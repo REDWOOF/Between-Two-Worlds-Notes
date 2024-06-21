@@ -1,3 +1,6 @@
-#NPC #Virtue
-
+---
+tags:
+  - NPC
+  - Virtue
+---
 The opposite of [[Lust]].

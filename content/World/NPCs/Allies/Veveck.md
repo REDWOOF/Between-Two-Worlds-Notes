@@ -1,4 +1,8 @@
-#Ally #NPC
+---
+tags:
+  - Ally
+  - NPC
+---
 An [[Ally]] of the misfits.
 
 We untrusted him the [[Book of Sins]] for him to translate.

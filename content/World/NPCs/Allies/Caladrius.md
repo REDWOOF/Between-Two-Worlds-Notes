@@ -1,6 +1,12 @@
+---
+tags:
+  - "#Ally"
+  - NPC
+---
 ##### A baby brass dragon.
 ---
-#Ally #NPC
+
+### Instructions:
 
 “Keep the egg very warm, intense heat wouldn’t even harm the shell and might even boost its hatching speed. It’s very important we don’t let the egg go cold.
 

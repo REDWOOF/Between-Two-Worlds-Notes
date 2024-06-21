@@ -1,5 +1,7 @@
-#Places
-
+---
+tags:
+  - Places
+---
 One of the many big cities of Faerûn. It is composed of 4 different sections:
 
 - The Blue Lake district, where many of the rich people live.

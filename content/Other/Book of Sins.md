@@ -1,5 +1,7 @@
-#Sin 
-
+---
+tags:
+  - Sin
+---
 The sins are dangerous and not friendly.
 Vevek translated some keywords:
 - Gods reborn.

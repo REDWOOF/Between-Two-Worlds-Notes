@@ -1,1 +1,5 @@
-#NPC #Sin 
+---
+tags:
+  - NPC
+  - Sin
+---

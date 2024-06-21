@@ -1,4 +1,9 @@
-#NPC #Enemy 
+---
+tags:
+  - NPC
+  - Enemy
+---
+### Extract from the Dragonology book:
 
 In the annals of dragon lore, none loom larger or more ominous than the Void Dragon. Legend tells of its birth as cataclysmic as it is mysterious: from a colossal egg, whose mere hatching shatters the moon. The Void Dragon emerges with four heads, each a harbinger of cosmic chaos and unparalleled power.
 

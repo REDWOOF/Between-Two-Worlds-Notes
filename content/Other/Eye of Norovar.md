@@ -1,5 +1,7 @@
-#Item
-
+---
+tags:
+  - Item
+---
 ##### The eye that [[Norovar]] implanted into himself to save his mother from an endless coma.
 ---
 

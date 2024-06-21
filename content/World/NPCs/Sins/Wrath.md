@@ -1,15 +1,27 @@
-#NPC #Sin #Rêvgo 
+---
+tags:
+  - NPC
+  - Sin
+  - Rêvgo
+---
+### Appearance:
 
-The sin of undying anger. It revived The Black Spider.
+A neatly packed set of tools made out of nefra. The bag containing it was labelled "DANGER DANGER DANGER" in Ancient Druidic.
+It then melts and replaces the user's bone marrow.
 
-It allows the user to use minor telekinesis and project nefra from their body as tools, weapons...
+### Abilities:
 
-==To kill Wrath==, one must bring it to 100% of its power, killing it and absorb the opposite virtue. (In this case, [[Patience]]).
+- It allows the user to use telekinesis on objects within a set size and weight limit, depending on the strength of the user. It cancels when a creature is touching the item.
+- Allows the user to exchange their defence for more offense and vice versa.
+- It is possible that it can revive its user, although it is likely Wrath only revives those who have destructive capabilities.
+- It may also be used as different tools, like gem smoothing tools for exemple.
 
-He broke the orbs of memories in the temple. He struck a pact with a dragon and had disagreements with the other [sins.](obsidian://open?vault=Between%20Two%20Worlds&file=World%2FNPCs%2FSins%2F7%20Sins)
 
-#### History:
+### History:
 Wrath got into a  disagreement with the other black figures, he had a huge sword and was unhappy.
 He spoke to a dragon, made a pact with it and killed a lot of dragonborns. (*This means he uses Rêvgo just for his link with Calamity.*)
 Wrath broke the last orb as I was about to touch it. He’s either ashamed or is simply trying to hide something from me.
 
+### Other:
+
+He broke the orbs of memories in the temple of Olidammara.

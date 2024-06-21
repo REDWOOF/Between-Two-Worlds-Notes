@@ -1,4 +1,7 @@
-#Journal
+---
+tags:
+  - Journal
+---
 ##### The journal of [[Rêvgo Druci (Solas Tabris)]].
 ---
 
@@ -12,6 +15,7 @@ Really quickly, my name is Rêvgo Druci, I’ve been raised by druids, and I am 
 Life’s unfair I guess. Never found anyone of my species, that’s why I’m going to the nearest city, Neverwinter! It’s going to be my first time in society. From what I’ve heard, the cities destroy nature to expand, grow bigger and bigger. If I’m to be honest, I’m ~~scared~~ nervous about that. My journey here won’t be too eventful, so I’ll update this book when something of note happens.
 
 ---
+
 #### Dear Diary,
 
 A LOT OF STUFF HAPPENED. I was casually walking along the dirt path, gathering berries and other stuff to make food, and this dark elf, if it’s what she actually said, tried to kill me!
@@ -21,6 +25,7 @@ Again, why? Why murder me? What have I done?
 Update: After a bit of convincing, she said yes. We’re almost in the city, just a few hours of walking, I think.
 
 --- 
+
 #### Dear Diary,
 
 I got hired for a mission along with Zeryth. We didn’t have much to do so we accepted. Our 3rd teammate is a half-elf bard called Norovar.
@@ -34,6 +39,7 @@ It told us who gave it orders, a bugbear in a nearby cave, we also got proof tha
 Goodnight!
 
 ---
+
 #### Dear Diary,
 
 Oh how the world is cruel. The day was long and I have a lot on my mind as I’m writing this. First and foremost, we woke up to the sound of a fight in the tavern. When going down from our room, we met a rather rude man. After a bit of speaking, he told us the location of some Redbrands, a group of bandits terrorizing Phandalin. We went to their small camp, inside the Sleeping Giant.
@@ -52,6 +58,7 @@ Fortunately, to plead for his life, he gave us the location of their headquarter
 We infiltrated the HQ with their cloaks, to save space on my journal, let’s just say we killed most of them and their leader, but spared enough to convert them into a better group, one we decided to call “Whitemains”. We found a goblin called Droop, he’s rather friendly and can control himself. We also met a strange creature, Norovar had a strange reaction to it. Then I heard it speak into my mind, saying something like “I know what you did”. Now the current question I have is whether it’s telling it knows something I did in the past or what I did to that “poor” redbrand.
 
 ---
+
 #### Dear diary,
 
 Today, we went to the Cragmaw cave, where the bugbear was hiding. We killed two goblins and entered the cave. I freed 3 binded wolves, they were very nice! They told us some details about the cave and helped us kill the bugbear. Speaking of! I finally got to wildshape!  I transformed into a dire wolf, breathed fire on the wine the bugbear & his dog was sitting on. Zeryth blasted the dog’s soul away. The bugbear ran through a hole and got devoured by the wolves and I.
@@ -68,6 +75,7 @@ We went to the Inn, I got some ale and I was very tired. Norovar bought rooms fo
 Goodnight!
 
 ---
+
 #### Dear Diary,
 
 FUCK FUCK FUCK FUCK FUCK FUCK FUCK FUCK!
@@ -76,6 +84,7 @@ The Nothic to speak to? GONE
 I went to an abandoned blacksmith. There was this jewelry tool, I was charmed by it. When I picked it up, ancient druidic runes were present, I didn’t recognize them at first until it was too late. “Forbidden, Forbidden, Forbidden”. FUCK, IT MELTED INTO ME. IT’S IN MY BONES. I can feel the METAL in my bones. It hurts, thinking about it hurts, I broke a very important rule, I might become a druid outcast, losing all my powers, the adrenaline I get in Wildshape, GONE. I’m trying to sleep, but I can't. I can’t stop thinking about it.
 
 ---
+
 #### Dear Diary,
 
 Too much stuff happening. We met cultists for the green dragon nearby. They poisoned us, my strong metabolism made me resist the poison and paralysis. They tried to feed us to the dragon, I killed one of them before they used a spell that gave me so much pain I went unconscious.
@@ -94,6 +103,7 @@ We left towards Phandalin, met a shopkeeper called Willy, he is a trickster. He�
 Hey at least I can cut gems perfectly, what a nice fucking tradeoff…
 
 ---
+
 #### Dear Diary,
 
 We've done all the quests the mayor gave us, we should go back to the Inn to get our reward.
@@ -112,6 +122,7 @@ Fuck, forgot to mention as well, the banshee gave me a criptic answer to a quest
 Oh, and lines of… whatever are growing on my back. What am I?
 
 ---
+
 #### Dear Diary,
 
 Today was an… “information-filled” day. Norovar and I started the morning by experimenting with our cursed powers. I can control up to 3 pebbles with my mind, isn't that great!
@@ -142,6 +153,7 @@ There's too many things happening at once. Basically all the questions I had wer
  Either way, I have to find a way to destroy or at least revert some of it.
 
 ---
+
 #### Dear Diary,
 
 We finally went to wave echo cave, our final destination to find a cure for Norovar’s mother. We found Venomfang’s corpse. All of his flesh was gone, no traces of it left, only bones were remaining. We desecrated his corpse to give his bones to Greed and keep his skull as decoration. He deserved it anyway, he led me towards continuing the curse.
@@ -166,6 +178,7 @@ Welp… During that break, I’m planning on hunting more animals for their hear
 Here’s what I saw in that vision, in the cave:
 
 ---
+
 #### Dear Diary,
 
 What is real anymore?  So much happened in
@@ -202,6 +215,7 @@ First, I can feel it pushing me towards those druid souls, the force feels more 
 I know Greed said removing a sin is dangerous, but keeping him is going to be worse in the long run.
 
 ---
+
 #### Dear Diary,
 
 Today, we’ve got a lot of answers as well as more questions. We’ve all had disasters when we were alone, except Zeryth. It took some time for me to trust that I wasn’t in hell anymore. Norovar found out that the black spider is still alive, he got an arrow stuck to his eye, which I removed as well as his pinky toe cut. Eldrin also, somehow got Gluttony as a sin?
@@ -227,6 +241,7 @@ I also fed on a druid that day. We’re planning on taking a short break since w
 Instead, I’ll be doing research on a few things, notably how to raise a brass dragon, get some supplies, help Neverwinter’s farms, and if there is a dragonborn district - I should ask Norovar… - I will probably try some of my people’s food. There’s also racism between scale colors, I’ll look into it.
 
 ---
+
 #### Dear Diary,
 
 Our party decided to take a big break from adventuring, especially now that we have saved Norovar’s mother.
@@ -250,6 +265,7 @@ Finally, for the pill, I went to a doctor to identify it. I think she thought I 
 I also got the weirdest interaction ever, which I should’ve guessed since I have a tail and that I’m not from the town. Some people apparently recommended me to a “dragonborn fixer” in Neverwinter, whose name is Kreston. First, how rude, “Dragonborn fixer”, like I need to be fixed... Secondly, who walks up to someone and tells them that? I have no idea where he is. But I guess he will one day come to us and tell us stuff…
 
 ---
+
 #### Dear Diary,
 
 Do I have to write” dear diary” every time? It feels like life isn’t dear anymore. The party and I met back at the tavern in Neverwinter. During our two months break:
@@ -287,6 +303,7 @@ I’ve had a nightmare, a horrible one. I was outside, next to the Tresandor man
 I remember chains binding me to the ground, he repeated “Lament.”. Blood pooled in my throat, my whole body felt like it was burning, he repeated, again, again, again. Suddenly, after what felt like hours of torment, he raised his arm and blinded me with light. That’s when I woke up, I don’t want to think about it, but it felt important, going back to sleep now.
 
 ---
+
 #### Dear Diary,
 
 We went on a quest to find magic items, the only things of note are we fought the white dragon, it immediately left when we did a lot of damage to it. We fought mimics, I also died. Having a broken nerve is a horrible feeling that I never wish to experience again. I gave that pill to the person we saved.
@@ -308,6 +325,7 @@ Yet, amidst these acts, Aodh became an alchemist of souls, a vessel for the amal
 Which got me wondering, I’ve released Wrath by forming the Planetree and the pill freed a child of Temperance. Is the book both about Aodh and I, our part of Calamity are not complete; maybe the book writes itself as we both do things to release Calamity?
 
 ---
+
 #### Dear Diary,
 
 We took the quest to alert the dwarves of the incoming scarred white dragon. We killed oozes and demons in the temple of the dwarven god of greed. When we got out, the white dragon ambushed us. He breathed ice onto all of us, Norovar went unconscious, Zeryth went unconscious. Augustus died. Thankfully, we defeated the beast and used a scroll of revivify on our human friend.
@@ -325,6 +343,7 @@ Norovar then got the Lust torso and we went back to the manor. That’s when the
 I’ve used the Scrying spell on Conquest, I saw him starting to regenerate, flesh melding back into its skeleton. Ravens were everywhere and are probably linked to it, hence the ravens we saw all throughout our quest. I’m also the victim of Scrying, Lancelot is spying on me but I can see the orb he sees and hears me through. While we’ve made a deal with Kindness to kill Patience’s users, we might need to put that on hold to defeat Conquest, one of the dragons of the apocalypse.
 
 ---
+
 #### Dear Diary,
 
 We went to Dragon Barrow, it was a huge hill shaped like a dragon. We met a centaur who asked us to help kill some orcs. Before we did that, we went into a cave hidden under a rock. There, we found Aethel, The Dragon Slayer, a legendary sword who might be able to defeat Conquest. There were also two tombs, which I presume are the corpses of Halleck and Priscilla, based on the writing inside the sarcophagi. We then helped the centaur, accidentally triggering a ritual summoning a giant electric boar. We defend ourselves. After the fight, someone who looked eerily familiar to Norovar talked and insulted us. Eventually, Augustus lost his cool and burnt him (dear god…). Turns out he was a puppet controlled by someone. We eventually left and went back to Phandalin; completed the dwarf excavation quest and had to meet with that dragonborn fixer I got recommended to.
@@ -344,6 +363,7 @@ We’re going to try to find how to avoid those problems, probably with make-up,
 We still need to find the mushrooms for Caladrius, now we know from Vivec that they’re from Icespire Peak. While Conquest regenerates, we’re going to prepare for the fight, get stronger and hope for the best.
 
 ---
+
 #### Dear Diary,
 
 While Augustus and Norovar were gone finding a missing mage, Zeryth, Eldrin and I went back to the temple of Olidammara, the god of mischief, gambling and “all those who enjoy a good party”; we went there for Eldrin, he wanted to learn the history of Gluttony.
@@ -354,6 +374,7 @@ We then went to the tavern. I discussed with Ipal, it turns out my father, Geris
 Now that I think about it, I can’t even go back to the druid grove I lived in, Gerish is basically my only chance to meet my family again; fuck you, Wrath.
 
 ---
+
 #### Dear Diary,
 
 We got a letter from Kreston telling us to meet somewhere. When we got there, Kreston and Seventeen (the fixer based in the Chasm district) met us to talk about the masquerade. After a foresight spell, we got insight on how the place looked like, where some guards could be and our targets.
@@ -381,6 +402,7 @@ After that, Galahad read my thoughts (I was forced to.), however he seemed to ha
 I don’t know what we’re going to do, but we should focus on one thing at a time. Right now, it’s the masquerade.
 
 ---
+
 #### Dear Diary,
 
 So many things happened today. First things first, we went to a tailor to get our suits, masks and overall disguises ready. The shopkeeper there had a huge mustache and although he was rude, he was getting the job done.

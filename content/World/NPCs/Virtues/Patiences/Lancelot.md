@@ -1,3 +1,6 @@
-#NPC #VirtueWielder
-
-Wielder of [[Patience]]
+---
+tags:
+  - NPC
+  - VirtueWielder
+---
+Wielder of [[Patience]].

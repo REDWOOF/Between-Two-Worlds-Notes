@@ -22,7 +22,7 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
+        header: "Cinzel Decorative",
         body: "Source Sans Pro",
         code: "IBM Plex Mono",
       },
@@ -43,7 +43,7 @@ const config: QuartzConfig = {
           gray: "#646464",
           darkgray: "#d4d4d4",
           dark: "#ebebec",
-          secondary: "#7b97aa",
+          secondary: "#c14343",
           tertiary: "#84a59d",
           highlight: "rgba(143, 159, 169, 0.15)",
         },
