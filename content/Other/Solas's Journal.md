@@ -1,6 +1,7 @@
 ---
 tags:
   - Journal
+  - Rêvgo
 ---
 ##### The journal of [[Rêvgo Druci (Solas Tabris)]].
 ---

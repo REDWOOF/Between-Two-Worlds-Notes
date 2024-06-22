@@ -1,6 +1,7 @@
-#Enemy
-
-
+---
+tags:
+  - Enemy
+---
 ### Sin-related:
 [[Halleck]]
 
