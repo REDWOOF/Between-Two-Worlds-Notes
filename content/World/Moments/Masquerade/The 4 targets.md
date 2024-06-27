@@ -1,7 +1,7 @@
 The four targets of [[The Masquerade]] assassination.
 
 [[Isobel]]
-[[Mayor's Son]]
+[[Sebastian]]
 [[Alister]]
 [[Albert]]
 

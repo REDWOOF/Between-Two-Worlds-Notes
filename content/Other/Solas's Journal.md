@@ -438,3 +438,22 @@ Aodh gets the experience of souls he absorbs, therefore he must be VERY powerful
 Galahad doesn’t want to kill Aodh because it would continue the cycle.
 
 Unfortunately I had to write those in a list, today was very tiring and summarizing it was necessary. We’ll keep low, I’ll write after the Masquerade.
+
+---
+
+#### Dear Diary,
+
+Okay, we've done the masquerade. It was exhausting, very stressful but our targets, except maybe one or two, deserved it.
+
+What I'm writing is incriminating, I know that, but History must be written.
+
+While I'm not going to write all that happened, what I know is that we used Greed in the form of pearls to make Alister and Albert explode from the inside. For Isobel, she wanted the fixers gone so they used us to remove their problems.
+The mayor's son, Sebastian, was abusing his soon-to-be-wife, not physically I hope.
+
+The parts that struck me as most important were that person staring at Norovar after leaving Isobel's garden and the presence of Aodh. He was here, chained on a chair, the flesh gone exposing his ribcage. I had to cut his leg to keep my cover, it was horrible...
+
+Until the anti-magic fields get turned off, he will be stuck here. When he gets out, I know he will try to kill us, or only me.
+
+As for our magic items, Norovar and Eldrin used theirs. Zeryth, Augustus and I haven't used them or still have ours.
+
+I told my druid grove about me and Aodh, and I wrote on the book of Aodh, they just wrote "Compromised."

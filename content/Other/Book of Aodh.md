@@ -59,3 +59,9 @@ In the midst of our discussions on [[Aodh Tabris]] and the nature of myths, let 
 Amidst our ongoing discussions, I have uncovered new information that may shed light on our current understanding. 
 Recent expeditions suggest that the [[Whispering Grove]] holds secrets about the cycles of rebirth and the nature of [[Aodh Tabris]]' reincarnations. The [[Mirror of Souls]] is also said to be active once more, though making more paintings would likely prove useless at this point.
 Or perhaps we should continue onto the[[ Catacombs of Eldara]] per our original plan? That still may bear more fruit than the actual forest, funnily enough. (*Is the Catacombs of Eldara the place under that dragon shaped hill, or the sarcophagi opened by Eldrin?*)
+
+**Rêvgo:**
+Hello, I obtained this book and it seems to be linked to others through text. I believe a meeting should be arranged, I would love to '*Aodh*' you on this subject. (Get it?)
+
+**Any:**
+Compromised.
