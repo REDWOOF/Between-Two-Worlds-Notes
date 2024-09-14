@@ -2,6 +2,8 @@
 tags:
   - Sin
 ---
+This book is currently in possession by [[Veveck]]
+
 The sins are dangerous and not friendly.
 Vevek translated some keywords:
 - Gods reborn.

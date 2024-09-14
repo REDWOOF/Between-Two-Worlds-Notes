@@ -22,7 +22,7 @@ A group of adventurers consisting of [[Lady Zeryth the Exiled]], [[Eldrin]], [[A
 
 ### All
 
-- Infiltrated and disrupted the yearly masquerade of Neverwinter in 1491.
+- Infiltrated, disrupted and assassinated 5 guests in the yearly masquerade of Neverwinter in 1491.
 - Awakened a dragon of the apocalypse.
 - Freed children of Temperance
 
@@ -34,6 +34,7 @@ A group of adventurers consisting of [[Lady Zeryth the Exiled]], [[Eldrin]], [[A
 
 ### Norovar
 - Desecration of property (Taking a shit on someone's bed...)
+- Stole a gas-powered cart
 
 ### Rêvgo
 - Cannibalism
@@ -42,6 +43,6 @@ A group of adventurers consisting of [[Lady Zeryth the Exiled]], [[Eldrin]], [[A
 - Destroyed an ancient piece of history in the Temple of Olidammara
 
 ### Zeryth
-- Completed a cult's ritual (Zeryth)
-- Property damage (Zeryth)
-- Freed Halleck (Zeryth)
+- Completed a cult's ritual
+- Property damage
+- Freed Halleck
