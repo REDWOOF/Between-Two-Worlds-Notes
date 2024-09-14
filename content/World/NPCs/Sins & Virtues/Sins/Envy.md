@@ -1,0 +1,6 @@
+---
+tags:
+  - NPC
+  - Sin
+  - Augustus
+---

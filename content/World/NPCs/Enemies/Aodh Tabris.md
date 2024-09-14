@@ -15,3 +15,6 @@ Refer to the [[Book of Aodh]] for further info. It seems that Galahad killing Ao
 Apparently, Aodh reincarnates every 1 000 years?
 
 We found him chained to a chair in the masquerade, it seems the lack of magic prevents him from healing.
+
+In the human world, Aodh is a name that many **kings** used. Something that Disepi's new teased song shows, where the lyrics sound like "I'll burn their kingdom down."
+
